@@ -694,3 +694,6 @@ for(i in seq(nrow(tt)))
 
 # When search key word using grep or grepl, use below link:
 # https://statisticsglobe.com/grep-grepl-r-function-example
+
+# when using github, use below link:
+# https://codehorizons.com/making-your-first-github-r-project/
